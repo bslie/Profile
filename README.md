@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lie</h1>
-<h3 align="center">A passionate dotnet developer from Russia</h3>
+<h3 align="center">A passionate dotnet backend developer from Russia</h3>
 
 - 🔭 I’m currently working on VimpelCom Ltd. [Retail methodology](https://beeline.ru)
 
